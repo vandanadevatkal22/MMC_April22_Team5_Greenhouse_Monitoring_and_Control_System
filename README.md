@@ -2,7 +2,7 @@
 
 ## Feature distribution
 
-|Ps.NO|Feature|
+|Ps.No|Feature|
 |-----|-------|
 |99007605||
 |99007607||

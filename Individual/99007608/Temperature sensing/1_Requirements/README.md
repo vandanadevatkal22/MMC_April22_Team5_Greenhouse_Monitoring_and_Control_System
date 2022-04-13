@@ -28,8 +28,6 @@ The temperature sensor is used for sensing temperature. When temperature exceeds
 |LLR-3|It is  suitable for remote indication. |
 |LLR-4|It should be very responsive to changes in temperature.|
 
-# Swot Analysis:
-
 # 4Ws & 1H:
 
 # What:

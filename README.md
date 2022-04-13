@@ -1,6 +1,8 @@
 # MMC_April22_Team5_Greenhouse_Monitoring_and_Control_System
 
-|Ps.NO|Feature|
+## Feature distribution
+
+|Ps.No|Feature|
 |-----|-------|
 |99007605||
 |99007607||

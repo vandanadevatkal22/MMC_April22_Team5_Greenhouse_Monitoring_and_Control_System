@@ -22,3 +22,15 @@
 * why beacuse it will help in alot industries
 ### HOW
 * How means it will use stm32 board and soil moisture sensor to give results
+# HIGH LEVEL REQUIREMENTS:
+|HLR|DESCRIPTION|STATUS|
+|---|---|---|
+|HLR 01| Soil moisture sensor|Done|
+|HLR 02|LEDS Glowing|Done|
+# LOW LEVEL REQUIREMENTS
+|TEST ID|DESCRIPTION|STATUS|
+|---|---|----|
+|LLR 01|Blue Led|Done|
+|LLR 02|Green Led|Done|
+|LLR 03|Red Led|Done|
+

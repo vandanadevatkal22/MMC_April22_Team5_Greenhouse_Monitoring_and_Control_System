@@ -1,3 +1,4 @@
+# Light Intensity
 ## Black Box
 ![LDR](https://user-images.githubusercontent.com/66207959/163223441-0f59fd5f-f42e-42a4-b7b0-eb1370b01366.png)
 

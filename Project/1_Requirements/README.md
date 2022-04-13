@@ -1,3 +1,4 @@
+# Light Intensity
 ## Abstract
 Light from the sun, or other sources runs the greenhouse. Greenhouse should provide a space with optimal conditions (light, temperature, nutrition, pest control, etc.) for the plants so that they can perform photosynthesis. Supplemental lighting, to increase illuminance and/or to extend photoperiod can be a significant portion of the total greenhouse energy use. In addition to the investment in the lighting system itself, it is important to choose the most economical light source to fit the needs of the plants. All types of lamps convert electrical energy into light. 
 ## Importance of light

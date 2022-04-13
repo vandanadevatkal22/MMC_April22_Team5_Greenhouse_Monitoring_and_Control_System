@@ -10,9 +10,62 @@ The temperature sensor is used for sensing temperature. When temperature exceeds
 
 # High Level requirements:
 
+
+|ID|Description|
+|--------|-------|
+|HLR-1|It should have very wide range temperature sensing. |
+|HLR-2|It should be fast response time. |
+|HLR-3|It should be Quick response for any temperature changes. |
+|HLR-4|Good to be used temperature variation measurement with below 1 cm distance range.|
+
 # Low Level Requirements:
+
+
+|ID|Description|
+|--------|-------|
+|LLR-1| Available in small sheath sizes.|
+|LLR-2|It is not easily broken good durability. |
+|LLR-3|It is  suitable for remote indication. |
+|LLR-4|It should be very responsive to changes in temperature.|
 
 # Swot Analysis:
 
 # 4Ws & 1H:
+
+# What:
+
+The temperature sensor is used for sensing temperature. When temperature exceeds from a defined level or critical level, the system automatically turns on the fan and a message is also sent to the owner or the operator with information of all parameters (Temperature, Humidity, Light intensity and Electrical appliance on off status). And when the temperature comes in normal range or comes below the defined level the fan turns off automatically.
+
+# Where:
+
+It can be used in houses,industries,malls and etc....It is very important sensor to use now a days.
+
+# When:
+
+It is used to measure the temperature rise during the works.
+
+# why:
+
+The temperature sensor will indicate when the environment becomes too hot or cold and preventative action can be taken to ensure that the entire device is not compromised. There are Temperature Sensor applications in many industries including medical, motorsport, HVAC, agriculture, industrial, aerospace and automotive.
+
+# How:
+
+A temperature sensor is a device used to measure temperature. This can be air temperature, liquid temperature or the temperature of solid matter.
+
+# Advantages of temperature sensor:
+
+It has Very wide temperature range    
+It is Fast response time.
+Very simple to simple construction
+Low initial cost
+Durable
+Easy to read has a clear screen and good scale
+Quick response for any temperature changes
+Precision accuracy in temperature measurement.
+Good to be used temperature variation measurement with below 1 cm distance range.
+It has  Good accuracy to give the response.
+It has High-speed response.
+
+
+
 

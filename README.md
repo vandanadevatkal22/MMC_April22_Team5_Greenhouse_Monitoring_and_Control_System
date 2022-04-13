@@ -9,3 +9,6 @@
 |99007608|Temperature sensor|
 |99007610||
 |99007611|Light Intensity|
+
+# Integrated circuit
+![20220413_115207](https://user-images.githubusercontent.com/66207959/163241176-ed6a5656-ce64-45ec-802e-2490fcf8fa99.jpg)

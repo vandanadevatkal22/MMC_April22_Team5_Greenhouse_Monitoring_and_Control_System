@@ -54,17 +54,21 @@ A temperature sensor is a device used to measure temperature. This can be air te
 
 # Advantages of temperature sensor:
 
-It has Very wide temperature range    
+It has Very wide temperature range.   
 It is Fast response time.
-Very simple to simple construction
-Low initial cost
-Durable
-Easy to read has a clear screen and good scale
+Low initial cost.
 Quick response for any temperature changes
 Precision accuracy in temperature measurement.
 Good to be used temperature variation measurement with below 1 cm distance range.
 It has  Good accuracy to give the response.
 It has High-speed response.
+
+# Disadvantages of temperature sensor:
+
+The cold junction and lead compensation is essential.
+It have a low output voltage.
+s output voltage is very small so it needs amplification.
+It is used for only temperature measurement only.
 
 
 

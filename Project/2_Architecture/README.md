@@ -10,3 +10,10 @@
 
 ## Flow Chart
 ![LDR FlowChart](https://user-images.githubusercontent.com/66207959/163232838-23d831ad-11c7-47d7-a5fe-58f9f2c6a24c.png)
+
+
+
+# Temperature sensing:
+
+![Temp sensing](https://user-images.githubusercontent.com/99023010/163247956-b0694c3a-b3e3-4df1-884c-7dd967a1a417.png)
+

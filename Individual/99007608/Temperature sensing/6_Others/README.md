@@ -30,7 +30,7 @@ The temperature sensor is used for sensing temperature. When temperature exceeds
 
 # Architecture:
 
-![Temp sensing](https://user-images.githubusercontent.com/99023010/163247388-c4de48f3-cbd4-4268-a8b9-aac07ded9df1.png)
+![Temp sensing](https://user-images.githubusercontent.com/99023010/163247956-b0694c3a-b3e3-4df1-884c-7dd967a1a417.png)
 
 
 

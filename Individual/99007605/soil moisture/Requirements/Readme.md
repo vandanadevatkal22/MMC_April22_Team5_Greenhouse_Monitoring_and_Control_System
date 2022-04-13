@@ -8,3 +8,17 @@
 * 300 ohm resistor
 *  Breadboard
 *  connnecting wires
+## SWOT analysis
+* Strength: It will detect moisture percentage in soil
+* Weakness: Sometimes it will not show correct reading
+## 5W'S and 1H:
+### WHAT: 
+* It is soil moisture sensor where it will showing the water content in that soil
+### WHERE:
+* It will be useful in agriculture fields where it will help farmers, what is water need for fields
+### WHO
+* Farmers will use it
+### WHY
+* why beacuse it will help in alot industries
+### HOW
+* How means it will use stm32 board and soil moisture sensor to give results

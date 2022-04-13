@@ -71,8 +71,11 @@ It has High-speed response.
 # Disadvantages of temperature sensor:
 
 The cold junction and lead compensation is essential.
+
 It have a low output voltage.
+
 output voltage is very small so it needs amplification.
+
 It is used for only temperature measurement only.
 
 

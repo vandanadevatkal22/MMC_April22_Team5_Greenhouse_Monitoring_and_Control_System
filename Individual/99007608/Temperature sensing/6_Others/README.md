@@ -32,6 +32,23 @@ The temperature sensor is used for sensing temperature. When temperature exceeds
 
 ![Temp sensing](https://user-images.githubusercontent.com/99023010/163247956-b0694c3a-b3e3-4df1-884c-7dd967a1a417.png)
 
+# SWOT Analysis:
+
+
+Strength:
+
+It will automatically detect the temperature.
+
+Weakness:
+Failure of Sensors
+In case of low power
+
+Opportunities:
+Increase in growth day by day
+
+Threats:
+Failure of System.
+
 
 
 # 4Ws & 1H:

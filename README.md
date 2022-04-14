@@ -7,7 +7,7 @@
 |99007605|SOIL MOISTURE|
 |99007607||
 |99007608|Temperature sensor|
-|99007610||
+|99007610|Humidity Sensor|
 |99007611|Light Intensity|
 
 # Components Provided

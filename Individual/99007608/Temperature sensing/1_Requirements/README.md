@@ -28,6 +28,22 @@ The temperature sensor is used for sensing temperature. When temperature exceeds
 |LLR-3|It is  suitable for remote indication. |
 |LLR-4|It should be very responsive to changes in temperature.|
 
+# SWOT Analysis:
+
+Strength:
+
+It will automatically detect the temperature.
+
+Weakness:
+Failure of Sensors
+In case of low power
+
+Opportunities:
+Increase in growth day by day
+
+Threats:
+Failure of System.
+
 # 4Ws & 1H:
 
 # What:
